@@ -1,0 +1,6 @@
+{
+  "name": "Nova Assistant",
+  "description": "Voice AI companion with liquid orb, Hindi & Bengali speech interaction, and quick smart actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
